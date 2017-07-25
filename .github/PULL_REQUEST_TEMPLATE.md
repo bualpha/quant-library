@@ -24,4 +24,5 @@ I'd like to add a resource to the library, which I think would be useful to peop
 
 
 Sincerely,
+
 [my_github_username]
