@@ -7,4 +7,3 @@
 - [NumPy](http://www.numpy.org/)
 - [SciPy](https://scipy.org/)
 - [Pandas](http://pandas.pydata.org/)
-
