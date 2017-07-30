@@ -1,11 +1,10 @@
-# library
+# Math Resources
 
-A collection of useful resources books, sites, and other resources for Statistics, Math, Computer Science, and Finance
+**All of the resources placed here are applicable to all of the subdirectories within this directory**
 
-Including:
-	- Books
-	- Sites
-	- Code Samples
-	- Blog Posts
+### Python Libraries
 
+- [NumPy](http://www.numpy.org/)
+- [SciPy](https://scipy.org/)
+- [Pandas](http://pandas.pydata.org/)
 
