@@ -1,6 +1,6 @@
 # Machine Learning Resources
 
-![alt tag](https://files.slack.com/files-pri/T5CKN3Q65-F6FJEGRFW/machinelearning-algos.jpg-large)
+![alt tag](https://pbs.twimg.com/media/CydzFovWgAA7G0t.jpg:large)
 
 ### Papers & Discussion
 
