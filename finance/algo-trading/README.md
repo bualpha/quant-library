@@ -21,7 +21,9 @@ Quoted from [Social Media Trader Mood Series](https://www.quantopian.com/posts/t
 - Quantopian
   - [A Professional Quant Equity Workflow](https://blog.quantopian.com/a-professional-quant-equity-workflow/)
   - [Common Types of Trading Algorithms](https://blog.quantopian.com/common-types-of-trading-algorithms/)
+  - [Alphalens - A Tool for Analyzing Alpha Factors](https://www.quantopian.com/posts/alphalens-a-new-tool-for-analyzing-alpha-factors)
 
 ### Lectures
 
 - [Quantopian Lecture Series](https://www.quantopian.com/lectures)
+- [MIT OCW - Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
